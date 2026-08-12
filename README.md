@@ -107,22 +107,24 @@ Azure CLI
 
 <div align="center">
 
-### ⚡ Let's Build. Automate. Deploy. Scale. 🚀
+<hr>
 
-**Turning infrastructure into code and ideas into reliable cloud solutions.**
+<h2>⚡ Let's Build. Automate. Deploy. Scale. 🚀</h2>
 
-<br>
+<p>
+Turning infrastructure into code and ideas into reliable cloud solutions.
+</p>
 
-> "Automate everything that can be automated."
-
-<br>
-
-### Thanks for visiting my profile! 👋
-
-**Keep Learning • Keep Building • Keep Automating**
+<p>
+<b>Keep Learning • Keep Building • Keep Automating</b>
+</p>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/ashishfromgola/ashishfromgola/main/assets/water-flow.gif" width="100%" alt="Water Flow">
+<img src="./assets/water-flow.gif" width="100%" alt="Water Flow Animation">
+
+<br><br>
+
+<p>💙 Thanks for visiting my GitHub profile!</p>
 
 </div>
