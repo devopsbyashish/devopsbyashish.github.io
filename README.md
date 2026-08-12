@@ -2,31 +2,31 @@
 
 # 🚀 ASHISH KUMAR
 
-## DevOps Engineer | Cloud | Automation | DevSecOps
+### DevOps Engineer | Cloud Engineer | DevSecOps | Infrastructure Automation
 
-<img src="./assets/profile.jpg"
-     width="220"
-     height="220"
-     alt="Ashish Kumar"
-     style="border-radius:50%;">
+<img src="./assets/profile.jpg" width="220" height="220" alt="Ashish Kumar">
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=DevOps+Engineer;Azure+Cloud+Engineer;Terraform+Infrastructure+Engineer;Docker+%7C+Kubernetes+%7C+Jenkins;CI%2FCD+%7C+DevSecOps;Automate+Everything+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=DevOps+Engineer;Azure+Cloud+Engineer;Terraform+Infrastructure+Engineer;Docker+%7C+Kubernetes+%7C+Jenkins;CI%2FCD+%7C+DevSecOps;Cloud+Automation+%7C+Infrastructure+as+Code;Automate+Everything+%F0%9F%9A%80" alt="Typing Animation">
 
 <br><br>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/🌐%20LIVE%20PORTFOLIO-8B5CF6?style=for-the-badge">
-</a>
 
 <a href="https://github.com/devopsbyashish">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-devopsbyashish-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin">
+<a href="https://www.linkedin.com/in/ashish-kumar139">
+<img src="https://img.shields.io/badge/LinkedIn-Ashish%20Kumar-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
+
+<a href="mailto:ashishfromgola@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-ashishfromgola%40gmail.com-EA4335?style=for-the-badge&logo=gmail">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=devopsbyashish&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS">
 
 </div>
 
@@ -34,40 +34,57 @@
 
 # 👨‍💻 About Me
 
-<img align="right"
-     src="./assets/devops.gif"
-     width="300"
-     alt="DevOps Animation">
+<img align="right" src="./assets/devops.gif" width="320" alt="DevOps Animation">
 
-Hello! I'm **Ashish Kumar**, a passionate **DevOps Engineer** focused on
-cloud infrastructure, automation, CI/CD and DevSecOps.
+Hello! I'm **Ashish Kumar**, a passionate **DevOps Engineer** focused on Cloud,
+Infrastructure Automation, CI/CD, DevSecOps and scalable deployment practices.
 
-I enjoy designing reliable infrastructure, automating repetitive tasks
-and building deployment pipelines that make software delivery faster,
-safer and more scalable.
+I enjoy converting manual infrastructure and deployment processes into
+**automated, repeatable and reliable workflows**.
 
-My primary focus is **Microsoft Azure + Terraform + DevOps Automation**.
+My primary cloud and infrastructure focus is:
 
-### 🔥 What I Do
+> ☁️ Azure + 🏗️ Terraform + 🐳 Docker + ☸️ Kubernetes + 🔄 CI/CD + 🔐 DevSecOps
 
-- ☁️ Design and manage Cloud Infrastructure
-- 🏗️ Build Infrastructure using Terraform
-- 🐳 Containerize applications with Docker
-- ☸️ Deploy workloads using Kubernetes
-- 🔄 Build CI/CD pipelines
-- 🔐 Implement DevSecOps practices
-- 📊 Configure monitoring and observability
-- ⚙️ Automate infrastructure and deployments
-- 🐧 Work with Linux and Bash
-- 🐍 Automate tasks using Python
+I believe in:
+
+- ⚙️ Automation over repetitive manual work
+- 🏗️ Infrastructure as Code
+- 🔐 Security from the beginning
+- 📦 Reproducible deployments
+- 📊 Monitoring and observability
+- 🚀 Continuous learning
+- 🧠 Problem solving
+- ☁️ Cloud-native infrastructure
+
+<br clear="right"/>
 
 ---
 
-# 🧠 My DevOps Stack
+# 🚀 What I Do
+
+| Area | Focus |
+|---|---|
+| ☁️ Cloud | Microsoft Azure, AWS, GCP |
+| 🏗️ Infrastructure | Terraform, Infrastructure as Code |
+| 🐳 Containers | Docker |
+| ☸️ Orchestration | Kubernetes |
+| 🔄 CI/CD | Jenkins, GitHub Actions, Azure DevOps |
+| 🔐 DevSecOps | Security scanning and code quality |
+| 🐧 Operating Systems | Linux |
+| 💻 Scripting | Bash, PowerShell, Python |
+| 📊 Monitoring | Prometheus, Grafana, Azure Monitor |
+| 🤖 Automation | Ansible, Terraform |
+| 🌐 Web | Nginx |
+| 🔀 Version Control | Git, GitHub |
+
+---
+
+# 🧠 DevOps Technology Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=azure,aws,gcp,terraform,docker,kubernetes,jenkins,github,git,ansible,bash,powershell,python,prometheus,grafana&perline=5">
+<img src="https://skillicons.dev/icons?i=azure,aws,gcp,terraform,docker,kubernetes,jenkins,github,git,ansible,bash,powershell,python,prometheus,grafana,linux,nginx&perline=6">
 
 </div>
 
@@ -75,23 +92,25 @@ My primary focus is **Microsoft Azure + Terraform + DevOps Automation**.
 
 # ☁️ Cloud Engineering
 
+## Microsoft Azure
+
 <div align="center">
 
-<img src="./assets/azure.gif" width="180" alt="Azure">
+<img src="https://skillicons.dev/icons?i=azure&perline=1">
 
 </div>
 
-### Microsoft Azure
+### Azure Services
 
 ```text
-Azure Entra ID
-Azure Subscription
+Microsoft Entra ID
+Azure Subscriptions
 RBAC
 Resource Groups
 Storage Accounts
 Blob Storage
 Static Website Hosting
-Virtual Network
+Virtual Networks
 Subnets
 Network Security Groups
 Public IP
@@ -102,29 +121,4 @@ Application Gateway
 Virtual Machines
 Azure Monitor
 Azure CLI
-
----
-
-<div align="center">
-
-<hr>
-
-<h2>⚡ Let's Build. Automate. Deploy. Scale. 🚀</h2>
-
-<p>
-Turning infrastructure into code and ideas into reliable cloud solutions.
-</p>
-
-<p>
-<b>Keep Learning • Keep Building • Keep Automating</b>
-</p>
-
-<br>
-
-<img src="./assets/water-flow.gif" width="100%" alt="Water Flow Animation">
-
-<br><br>
-
-<p>💙 Thanks for visiting my GitHub profile!</p>
-
-</div>
+Azure DevOps
