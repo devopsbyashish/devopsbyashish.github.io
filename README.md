@@ -102,3 +102,27 @@ Application Gateway
 Virtual Machines
 Azure Monitor
 Azure CLI
+
+---
+
+<div align="center">
+
+### ⚡ Let's Build. Automate. Deploy. Scale. 🚀
+
+**Turning infrastructure into code and ideas into reliable cloud solutions.**
+
+<br>
+
+> "Automate everything that can be automated."
+
+<br>
+
+### Thanks for visiting my profile! 👋
+
+**Keep Learning • Keep Building • Keep Automating**
+
+<br>
+
+<img src="https://raw.githubusercontent.com/ashishfromgola/ashishfromgola/main/assets/water-flow.gif" width="100%" alt="Water Flow">
+
+</div>
