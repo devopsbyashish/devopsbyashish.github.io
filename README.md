@@ -4,7 +4,7 @@
 
 ## DevOps Engineer | Cloud | Automation | DevSecOps
 
-<img src="./assets/ashish-profile.jpg"
+<img src="./assets/profile.jpg"
      width="220"
      height="220"
      alt="Ashish Kumar"
