@@ -1,9 +1,8 @@
 <div align="center">
 
-# 🚀 ASHISH KUMAR
-### DevOps Engineer | Cloud Engineer | DevSecOps | Infrastructure Automation
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ASHISH%20KUMAR&fontSize=45&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=DevOps%20Engineer%20%7C%20Cloud%20Engineer%20%7C%20DevSecOps&descAlignY=58&descSize=18" width="100%">
 
-<img src="./assets/profile.jpg" width="220" height="220" alt="Ashish Kumar" style="border-radius: 50%;">
+<img src="./assets/profile.jpg" width="220" height="220" alt="Ashish Kumar" style="border-radius: 50%; margin-top: -60px; border: 4px solid #22D3EE;">
 
 <br><br>
 
@@ -26,8 +25,6 @@
 <img src="https://komarev.com/ghpvc/?username=devopsbyashish&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS">
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" width="100%">
 
 ---
 
