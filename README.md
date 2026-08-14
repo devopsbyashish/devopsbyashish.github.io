@@ -1,10 +1,9 @@
 <div align="center">
 
 # 🚀 ASHISH KUMAR
-
 ### DevOps Engineer | Cloud Engineer | DevSecOps | Infrastructure Automation
 
-<img src="./assets/profile.jpg" width="220" height="220" alt="Ashish Kumar">
+<img src="./assets/profile.jpg" width="220" height="220" alt="Ashish Kumar" style="border-radius: 50%;">
 
 <br><br>
 
@@ -15,11 +14,9 @@
 <a href="https://github.com/devopsbyashish">
 <img src="https://img.shields.io/badge/GitHub-devopsbyashish-181717?style=for-the-badge&logo=github">
 </a>
-
 <a href="https://www.linkedin.com/in/ashish-kumar139">
 <img src="https://img.shields.io/badge/LinkedIn-Ashish%20Kumar-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
-
 <a href="mailto:ashishfromgola@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-ashishfromgola%40gmail.com-EA4335?style=for-the-badge&logo=gmail">
 </a>
@@ -29,6 +26,8 @@
 <img src="https://komarev.com/ghpvc/?username=devopsbyashish&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS">
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" width="100%">
 
 ---
 
@@ -83,9 +82,7 @@ I believe in:
 # 🧠 DevOps Technology Stack
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=azure,aws,gcp,terraform,docker,kubernetes,jenkins,github,git,ansible,bash,powershell,python,prometheus,grafana,linux,nginx&perline=6">
-
 </div>
 
 ---
@@ -95,9 +92,7 @@ I believe in:
 ## Microsoft Azure
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=azure&perline=1">
-
 </div>
 
 ### Azure Services
@@ -122,3 +117,54 @@ Virtual Machines
 Azure Monitor
 Azure CLI
 Azure DevOps
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devopsbyashish&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devopsbyashish&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devopsbyashish&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE">
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=devopsbyashish&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8">
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+I'm always open to talking DevOps, Cloud Architecture, and Automation.
+Feel free to reach out — collaboration, questions, or just a friendly hello! 👋
+
+<a href="https://github.com/devopsbyashish">
+<img src="https://img.shields.io/badge/GitHub-devopsbyashish-181717?style=for-the-badge&logo=github">
+</a>
+<a href="https://www.linkedin.com/in/ashish-kumar139">
+<img src="https://img.shields.io/badge/LinkedIn-Ashish%20Kumar-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+<a href="mailto:ashishfromgola@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-ashishfromgola%40gmail.com-EA4335?style=for-the-badge&logo=gmail">
+</a>
+
+<br><br>
+
+### 💬 "Automate everything you can, monitor everything you can't."
+
+<br>
+
+⭐️ **Thanks for stopping by — if you liked this profile, drop a star on my repos!** ⭐️
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%">
