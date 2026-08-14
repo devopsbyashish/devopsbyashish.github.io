@@ -4,7 +4,9 @@
 
 <img src="./assets/profile.jpg" width="220" height="220" alt="Ashish Kumar" style="border-radius: 50%; margin-top: -60px; border: 4px solid #22D3EE;">
 
-<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=90&section=header&reversal=true" width="100%">
+
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=DevOps+Engineer;Azure+Cloud+Engineer;Terraform+Infrastructure+Engineer;Docker+%7C+Kubernetes+%7C+Jenkins;CI%2FCD+%7C+DevSecOps;Cloud+Automation+%7C+Infrastructure+as+Code;Automate+Everything+%F0%9F%9A%80" alt="Typing Animation">
 
