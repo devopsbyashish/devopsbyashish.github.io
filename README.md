@@ -22,10 +22,6 @@
 <img src="https://img.shields.io/badge/Gmail-ashishfromgola%40gmail.com-EA4335?style=for-the-badge&logo=gmail">
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=devopsbyashish&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS">
-
 </div>
 
 ---
@@ -59,77 +55,54 @@ I believe in:
 
 ---
 
-# 🚀 What I Do
+## What I Do
 
 | Area | Focus |
 |---|---|
-| ☁️ Cloud | Microsoft Azure, AWS, GCP |
-| 🏗️ Infrastructure | Terraform, Infrastructure as Code |
-| 🐳 Containers | Docker |
-| ☸️ Orchestration | Kubernetes |
-| 🔄 CI/CD | Jenkins, GitHub Actions, Azure DevOps |
-| 🔐 DevSecOps | Security scanning and code quality |
-| 🐧 Operating Systems | Linux |
-| 💻 Scripting | Bash, PowerShell, Python |
-| 📊 Monitoring | Prometheus, Grafana, Azure Monitor |
-| 🤖 Automation | Ansible, Terraform |
-| 🌐 Web | Nginx |
-| 🔀 Version Control | Git, GitHub |
+| Cloud | Microsoft Azure, AWS, GCP |
+| Infrastructure | Terraform, Infrastructure as Code |
+| Containers | Docker |
+| Orchestration | Kubernetes |
+| CI/CD | Jenkins, GitHub Actions, Azure DevOps |
+| DevSecOps | Security scanning, code quality |
+| Operating Systems | Linux |
+| Scripting | Bash, PowerShell, Python |
+| Monitoring | Prometheus, Grafana, Azure Monitor |
+| Automation | Ansible, Terraform |
+| Web Server | Nginx |
+| Version Control | Git, GitHub |
 
 ---
 
-# 🧠 DevOps Technology Stack
+## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=azure,aws,gcp,terraform,docker,kubernetes,jenkins,github,git,ansible,bash,powershell,python,prometheus,grafana,linux,nginx&perline=6">
+<img src="https://skillicons.dev/icons?i=azure,aws,gcp,terraform,docker,kubernetes,jenkins,github,git,ansible,bash,powershell,python,prometheus,grafana,linux,nginx&perline=6" alt="Tech Stack"/>
 </div>
 
 ---
 
-# ☁️ Cloud Engineering
+## Azure Experience
 
-## Microsoft Azure
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=azure&perline=1">
-</div>
-
-### Azure Services
-
-```text
-Microsoft Entra ID
-Azure Subscriptions
-RBAC
-Resource Groups
-Storage Accounts
-Blob Storage
-Static Website Hosting
-Virtual Networks
-Subnets
-Network Security Groups
-Public IP
-NAT Gateway
-Azure Bastion
-Load Balancer
-Application Gateway
-Virtual Machines
-Azure Monitor
-Azure CLI
-Azure DevOps
-```
+- Microsoft Entra ID, Subscriptions, RBAC
+- Resource Groups, Storage Accounts, Blob Storage, Static Website Hosting
+- Virtual Networks, Subnets, Network Security Groups
+- Public IP, NAT Gateway, Azure Bastion
+- Load Balancer, Application Gateway
+- Virtual Machines
+- Azure Monitor
+- Azure CLI, Azure DevOps
 
 ---
 
-# 📊 GitHub Analytics
+## GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devopsbyashish&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devopsbyashish&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=devopsbyashish&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devopsbyashish&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE" alt="Top Languages"/>
 
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devopsbyashish&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devopsbyashish&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" alt="GitHub Streak"/>
 
 <br><br>
 
