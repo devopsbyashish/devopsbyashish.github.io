@@ -6,7 +6,7 @@
 
 ### DevOps Engineer | Cloud Engineer | DevSecOps
 
-💼 Former DevOps Engineer at Talentpul and Infrastructure Private Limited
+💼 DevOps Engineer at Talentpul and Infrastructure Private Limited
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=DevOps+Engineer%3B+Azure+Cloud+Engineer%3B+Terraform+Infrastructure+Engineer%3B+Docker+%7C+Kubernetes+%7C+Jenkins+%7C+CI%2FCD+%7C+DevSecOps%3B+Cloud+Automation+%7C+Infrastructure+as+Code%3B+Automate+Everything+%F0%9F%9A%80" alt="Typing Animation">
 
