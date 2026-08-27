@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ASHISH%20KUMAR&fontSize=45&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=DevOps%20Engineer%20%7C%20Cloud%20Engineer%20%7C%20DevSecOps&descAlignY=58&descSize=18" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ASHISH%20KUMAR&fontSize=45&fontColor=ffffff&fontAlignY=32&animation=fadeIn&desc=DevOps%20Engineer%20%7C%20Cloud%20Engineer%20%7C%20DevSecOps&descAlignY=50&descSize=18" width="100%">
 
-<img src="./assets/profile.jpg" width="180" height="180" alt="Ashish Kumar" style="border-radius: 50%; margin-top: -60px; border: 4px solid #22D3EE;">
+<img src="./assets/profile.jpg" width="180" height="180" alt="Ashish Kumar" style="border-radius: 50%; margin-top: -40px; border: 5px solid #ffffff;">
 
 ### DevOps Engineer | Cloud Engineer | DevSecOps
 
@@ -32,26 +32,22 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Ashish Kumar**, a passionate **DevOps Engineer** focused on Cloud,
-Infrastructure Automation, CI/CD, DevSecOps and scalable deployment practices.
+Hi, I'm **Ashish Kumar** — a **DevOps Engineer** working with **Talent Pull and Infrastructure Pvt. Ltd.**, currently on deputation at **PowerHF India Pvt. Ltd.**, where I handle Cloud, Infrastructure Automation, CI/CD and DevSecOps for real production workloads.
 
-I enjoy converting manual infrastructure and deployment processes into
-**automated, repeatable and reliable workflows**.
+I started with a one-year hands-on DevOps training program at **DevOps Insider**, before that working as an **MIS Executive** — so I've moved from desktop support and manual monitoring to fully automating infrastructure and deployments.
 
-My primary cloud and infrastructure focus is:
+My day-to-day work centers around:
 
-> ☁️ Azure + 🏗️ Terraform + 🐳 Docker + ☸️ Kubernetes + 🔄 CI/CD + 🔐 DevSecOps
+> ☁️ Azure &nbsp;•&nbsp; 🏗️ Terraform &nbsp;•&nbsp; 🐳 Docker &nbsp;•&nbsp; ☸️ Kubernetes &nbsp;•&nbsp; 🔄 CI/CD &nbsp;•&nbsp; 🔐 DevSecOps
 
-I believe in:
+**What I focus on:**
 
-- ⚙️ Automation over repetitive manual work
-- 📊 Monitoring and observability
-- 🏗️ Infrastructure as Code
-- 🚀 Continuous learning
-- 🔐 Security from the beginning
-- 🧠 Problem solving
-- 📦 Reproducible deployments
-- ☁️ Cloud-native infrastructure
+| | |
+|---|---|
+| ⚙️ Automation over repetitive manual work | 📊 Monitoring and observability |
+| 🏗️ Infrastructure as Code | 🚀 Continuous learning |
+| 🔐 Security from the beginning | 🧠 Problem solving |
+| 📦 Reproducible deployments | ☁️ Cloud-native infrastructure |
 
 ---
 
