@@ -32,7 +32,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Ashish Kumar** — a **DevOps Engineer** with professional experience at **Talent Pull and Infrastructure Pvt. Ltd.**, where I worked on Cloud, Infrastructure Automation, CI/CD and DevSecOps for production workloads.
+Hi, I'm **Ashish Kumar** — a **DevOps Engineer** with professional experience at **𝑷𝒐𝒘𝒆𝒓𝑯𝑭 𝑰𝒏𝒅𝒊𝒂 𝑷𝒓𝒊𝒗𝒂𝒕𝒆 𝑳𝒊𝒎𝒊𝒕𝒆𝒅.**, where I worked on Cloud, Infrastructure Automation, CI/CD and DevSecOps for production workloads.
 
 I completed a one-year hands-on DevOps training program at **DevOps Insider**, building practical expertise in cloud infrastructure, automation, containerization, CI/CD pipelines and DevSecOps practices.
 
