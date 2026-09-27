@@ -6,7 +6,7 @@
 
 ### DevOps Engineer | Cloud Engineer | DevSecOps
 
-💼 𝑫𝒆𝒗𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓 𝒂𝒕 𝑷𝒐𝒘𝒆𝒓𝑯𝑭 𝑰𝒏𝒅𝒊𝒂 𝑷𝒓𝒊𝒗𝒂𝒕𝒆 𝑳𝒊𝒎𝒊𝒕𝒆𝒅
+💼 𝗗𝗘𝗩𝗢𝗣𝗦 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 𝗔𝗧 𝗧𝗔𝗟𝗘𝗡𝗧𝗣𝗨𝗟𝗟 & 𝗜𝗡𝗙𝗥𝗔𝗦𝗧𝗥𝗨𝗖𝗧𝗨𝗥𝗘 𝗣𝗥𝗜𝗩𝗔𝗧𝗘 𝗟𝗜𝗠𝗜𝗧𝗘𝗗
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=DevOps+Engineer%3B+Azure+Cloud+Engineer%3B+Terraform+Infrastructure+Engineer%3B+Docker+%7C+Kubernetes+%7C+Jenkins+%7C+CI%2FCD+%7C+DevSecOps%3B+Cloud+Automation+%7C+Infrastructure+as+Code%3B+Automate+Everything+%F0%9F%9A%80" alt="Typing Animation">
 
